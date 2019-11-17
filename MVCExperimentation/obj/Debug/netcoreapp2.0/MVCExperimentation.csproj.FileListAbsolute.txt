@@ -1,0 +1,11 @@
+D:\Dropbox\Arrow Technology Solutions\Projects\MVCExperimentation\MVCExperimentation\bin\Debug\netcoreapp2.0\MVCExperimentation.deps.json
+D:\Dropbox\Arrow Technology Solutions\Projects\MVCExperimentation\MVCExperimentation\bin\Debug\netcoreapp2.0\MVCExperimentation.runtimeconfig.json
+D:\Dropbox\Arrow Technology Solutions\Projects\MVCExperimentation\MVCExperimentation\bin\Debug\netcoreapp2.0\MVCExperimentation.runtimeconfig.dev.json
+D:\Dropbox\Arrow Technology Solutions\Projects\MVCExperimentation\MVCExperimentation\bin\Debug\netcoreapp2.0\MVCExperimentation.dll
+D:\Dropbox\Arrow Technology Solutions\Projects\MVCExperimentation\MVCExperimentation\bin\Debug\netcoreapp2.0\MVCExperimentation.pdb
+D:\Dropbox\Arrow Technology Solutions\Projects\MVCExperimentation\MVCExperimentation\obj\Debug\netcoreapp2.0\MVCExperimentation.csprojResolveAssemblyReference.cache
+D:\Dropbox\Arrow Technology Solutions\Projects\MVCExperimentation\MVCExperimentation\obj\Debug\netcoreapp2.0\MVCExperimentation.csproj.CoreCompileInputs.cache
+D:\Dropbox\Arrow Technology Solutions\Projects\MVCExperimentation\MVCExperimentation\obj\Debug\netcoreapp2.0\MVCExperimentation.AssemblyInfoInputs.cache
+D:\Dropbox\Arrow Technology Solutions\Projects\MVCExperimentation\MVCExperimentation\obj\Debug\netcoreapp2.0\MVCExperimentation.AssemblyInfo.cs
+D:\Dropbox\Arrow Technology Solutions\Projects\MVCExperimentation\MVCExperimentation\obj\Debug\netcoreapp2.0\MVCExperimentation.dll
+D:\Dropbox\Arrow Technology Solutions\Projects\MVCExperimentation\MVCExperimentation\obj\Debug\netcoreapp2.0\MVCExperimentation.pdb
